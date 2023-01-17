@@ -1,6 +1,6 @@
 # Olá meu nome é Rafael.
 
-## NWL SETUP
+## NLW SETUP
 É um evento que tá acontecendo na rocketseat.
 
 ### Dia 1 | 17/01/2023
